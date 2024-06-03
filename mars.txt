@@ -1,9 +1,6 @@
 Cold and dry but everything is my favourite colour.
 The 2 moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity.
-<<<<<<< HEAD
 Alternatively, we can try to go to Venus!
-=======
-Alternatively, we can try to go to Venus..
->>>>>>> 344bdb9 (Add missing comma)
+
 
